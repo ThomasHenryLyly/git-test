@@ -1,0 +1,7 @@
++ create new Repositories -> create folder in computer
+-> right mouse in folder-> choose git bash -> terminal appreance - > git clone <link>
+
++ how to push file on github:
+in folder -> right mouse windown - > choose git bash -> terminal appear -> check status = git status - > git add * (dau 
+tat ca file len local git - neu chi muon dua 1 file thi "git add <ten file>") -> git commint -m "them comment, gi cung dc"
+-> git push
