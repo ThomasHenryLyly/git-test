@@ -5,3 +5,5 @@
 in folder -> right mouse windown - > choose git bash -> terminal appear -> check status = git status - > git add * (dau 
 tat ca file len local git - neu chi muon dua 1 file thi "git add <ten file>") -> git commint -m "them comment, gi cung dc"
 -> git push
+
++ how to backup repository, sync from github
