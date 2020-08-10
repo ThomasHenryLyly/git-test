@@ -7,3 +7,10 @@ tat ca file len local git - neu chi muon dua 1 file thi "git add <ten file>") ->
 -> git push
 
 + how to backup repository, sync from github
+
+Ngoai nhan lenh "git add *" thì chung ta dung "git commit -a -m"<ABC>"   " -> git push (giong v)
+
+"git log" de kiem tra trang thai cuoi cung update, ID cua update
+
+"get revert <d51bd90d1fc3c2865e1f77a18efed5ef3fc1bb80>" : quay lai thoi diem ma chung ta da backup  -> esc -> press "shift"
+key và ":" key -> "q" -> enter
